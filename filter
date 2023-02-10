@@ -1,0 +1,64 @@
+[
+{
+"accountname": "Credit Suisse",
+"marketUnit": "Adm",
+"location": "Pune"
+},
+{
+"accountname": "WB",
+"marketUnit": "CIS",
+"location": "Mumbai"
+},
+{
+"accountname": "John Deer",
+"marketUnit": "MDU",
+"location": "Banglore"
+},
+{
+"accountname": "Lenevo",
+"marketUnit": "ADM",
+"location": "Chennai"
+},
+{
+"accountname": "HP",
+"marketUnit": "ADM",
+"location": "Chennai"
+},
+{
+"accountname": "Lenevo",
+"marketUnit": "ADM",
+"location": "Pune"
+},
+{
+"accountname": "UPS",
+"marketUnit": "CIS",
+"location": "Chennai"
+},
+{
+"accountname": "UPS",
+"marketUnit": "ADM",
+"location": "Chennai"
+},
+{
+"accountname": "Lenevo",
+"marketUnit": "ADM",
+"location": "Delhi"
+},
+{
+"accountname": "Lenevo",
+"marketUnit": "CS",
+"location": "Chennai"
+},
+{
+"accountname": "Lenevo",
+"marketUnit": "CIS",
+"location": "Delhi"
+},
+{
+"accountname": "Port",
+"marketUnit": "MDU",
+"location": "Chennai"
+}
+
+
+]
